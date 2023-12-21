@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users>
+<User>
+    <name>Valerie2003</name>
+    <money>1</money>
+    <lvl>10000</lvl>
+</User>
+
+<User>
+<name>Chernysh</name>
+<money>6</money>
+<lvl>1500</lvl>
+</User>
+    <User>
+        <name>Snezhok</name>
+        <money>10</money>
+        <lvl>3500</lvl>
+    </User>
+
+</Users>
